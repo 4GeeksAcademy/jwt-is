@@ -1,5 +1,4 @@
-# This file was created to run the application on heroku using gunicorn.
-# Read more about it here: https://devcenter.heroku.com/articles/python-gunicorn
+# Este archivo se usa para correr la app en servidores como Gunicorn o Heroku
 
 from app import app as application
 
